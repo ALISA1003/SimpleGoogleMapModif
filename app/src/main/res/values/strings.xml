@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleGoogleMap</string>
+    <string name="google_maps_key">AIzaSyDuKEWBNpke7TFjbsxr3PtKc4SbcjypMt0</string>
 </resources>
